@@ -1,0 +1,8 @@
+name: CustomTreasureMap 
+main: me.rananaah.CustomTreasureMap.CustomTreasureMap 
+version: 1.0 
+api-version: 1.16 
+description: Custom Treasure Map Plugin 
+commands: 
+  treasuremap: 
+    description: Get a treasure map 
